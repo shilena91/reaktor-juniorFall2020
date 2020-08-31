@@ -1,0 +1,6 @@
+[submodule "dpkg_status"]
+	path = dpkg_status
+	url = https://github.com/shilena91/dpkg_status.git
+[submodule "reaktor2020-frontend"]
+	path = reaktor2020-frontend
+	url = https://github.com/shilena91/reaktor2020-frontend.git
