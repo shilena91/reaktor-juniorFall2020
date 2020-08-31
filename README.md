@@ -6,7 +6,7 @@ You can read about the assignment [here](https://www.reaktor.com/junior-dev-assi
 
 This project helped me get started with **React**, improved my **Python**, **html/css** skill, and gained some knowledge of deploying a web app on a live server.
 
-The app was created using **React**. It fetches and shows information from an API endpoint.
+The app's frontend was created using **React**. It fetches and shows information from an API endpoint, which can be seen in **dpkg_status** submodule.
 
 ### Usage
 > git clone --recurse-submodules ht<span>tps://github.com/shilena91/reaktor-juniorFall2020.git
